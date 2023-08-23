@@ -1,5 +1,5 @@
 # CryptoClustering
-Module 19 Challenge
+Unsupervised Learning Clustering of Crypto values over one year
 
 This project contrasts K-Means clustering of Crypto Data before and after optimization using PCA.
 
